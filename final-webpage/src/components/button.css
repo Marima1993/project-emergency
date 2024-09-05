@@ -1,0 +1,30 @@
+.storybook-button {
+    max-width: 150px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 3em;
+    cursor: pointer;
+    line-height: 1;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+}
+
+.storybook-button--primary {
+    color: white;
+    background-color: black;
+}
+
+.storybook-button--secondary {
+    color: white;
+    background-color: black;
+
+}
+
+
+
+.storybook-button--large {
+    font-size: 16px;
+    padding: 12px 24px;
+}

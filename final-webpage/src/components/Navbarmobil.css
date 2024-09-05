@@ -1,0 +1,19 @@
+.navbar {
+   display:'flex';
+    background-color: #1639F3;
+    color: white;
+    align-items: center;
+}
+
+
+.item {
+    flex: 1;
+    
+}
+
+
+.iconContainer {
+    flex: 1;
+    text-align: 'center';
+    height: 50px;
+}

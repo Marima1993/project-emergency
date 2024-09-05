@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: black;
+    margin: 3;
+    padding: 3;
+    
+
+}
+
+
+.event-card {
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(253 224 71);
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.event-card h2 {
+    margin-bottom: 8px;
+
+    font-size: 1.5em;
+    font-weight: bold;
+
+}
+
+.event-card img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+    margin: 0 auto 16px;
+}
+
+
